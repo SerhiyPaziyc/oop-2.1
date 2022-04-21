@@ -1,0 +1,24 @@
+﻿  Goods.cpp
+C:\Users\LENOVO\source\repos\OOP 2.1\Goods.h(18,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\OOP 2.1\Goods.cpp(16,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\OOP 2.1\Goods.cpp(68,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+C:\Users\LENOVO\source\repos\OOP 2.1\Goods.h(18,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00CA' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00EB' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00FC' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00EA' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00F1' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00E2' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00EF' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00F0' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00F6' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00EE' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00ED' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1251)
+C:\Users\LENOVO\source\repos\OOP 2.1\Source.cpp(42,10): warning C4566: character represented by universal-character-name '\u00F5' cannot be represented in the current code page (1251)
+  Generating Code...
+  OOP 2.1.vcxproj -> C:\Users\LENOVO\source\repos\OOP 2.1\x64\Debug\OOP 2.1.exe
